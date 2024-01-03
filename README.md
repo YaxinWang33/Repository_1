@@ -2,9 +2,9 @@
 
 Some description.
 
-Commit/Save changes
 
 
+Delete content
 
 
 
